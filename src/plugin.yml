@@ -1,0 +1,5 @@
+name: H-API
+version: 2.0
+main: fr.haizen.hapi.HAPI
+author: HaiZen
+description: HaiZen API Library for 1.7.10
